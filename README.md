@@ -57,22 +57,21 @@
 
 ### 📌 Proyecto destacado
 
-<a href="https://github.com/adriiidb/RaceConnect-TFG">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=adriiidb&repo=RaceConnect-TFG&theme=tokyonight" />
-</a>
+**[Race Connect](https://github.com/adriiidb/RaceConnect-TFG)** — TFG de 2º DAM. App multiplataforma (Flutter + Spring Boot + PostgreSQL) para la gestión de clubes y competiciones de Scalextric, con motor de carreras en tiempo real y sistema de logros.
 
-**Race Connect** — TFG de 2º DAM. App multiplataforma (Flutter + Spring Boot + PostgreSQL) para la gestión de clubes y competiciones de Scalextric, con motor de carreras en tiempo real y sistema de logros.
-
-<br clear="left"/>
+![Stars](https://img.shields.io/github/stars/adriiidb/RaceConnect-TFG?style=flat-square&color=14b8a6)
+![Last commit](https://img.shields.io/github/last-commit/adriiidb/RaceConnect-TFG?style=flat-square&color=14b8a6)
+![Top language](https://img.shields.io/github/languages/top/adriiidb/RaceConnect-TFG?style=flat-square&color=14b8a6)
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adriiidb&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adriiidb&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </div>
+
+![Profile views](https://komarev.com/ghpvc/?username=adriiidb&color=14b8a6&style=flat-square&label=Visitas+al+perfil)
 
 ---
 
